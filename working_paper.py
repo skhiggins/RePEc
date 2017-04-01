@@ -3,7 +3,7 @@
 # AUTOMATE PREPARATION OF PAPER FOR WORKING PAPER SERIES
 # Sean Higgins
 # Created 16sep2015
-# Edited   7dec2015
+# Edited  21jul2016
 
 # INPUT INFORMATION ABOUT THE PAPER HERE #
 # ########################## BEGIN USER INPUT ####################################
